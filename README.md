@@ -1,6 +1,10 @@
 # EXP-1-java-program-to-print-the-Arithmetic-operations
 # Program
 ```
+Developed By : Vishal Gowthaman K R
+Reg No : 212221230123
+```
+```
 public class ArithmeticOperations {
     public static void main(String[] args) {
         int num1 = 10;
